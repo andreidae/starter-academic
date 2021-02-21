@@ -52,5 +52,3 @@ I am an evolutionary biologist with a broad interest in ecology, evolution and a
 I am currently a Postdoc at [Lorenzen Group](https://globe.ku.dk/research/evogenomics/lorenzen-group/) at the University of Copenhagen where I am generating and analyzing contemporary and ancient genomic data of marine mammals, particularly polar bears. The focus of my main research project is to understand how polar bear populations have changed over time and how climate fluctuations have influenced their demographic history.
 
 <!--EndFragment-->
-
-{{< icon name="download" pack="fas" >}}
