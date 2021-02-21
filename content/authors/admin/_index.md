@@ -24,9 +24,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/andreidae
+  - link: https://www.researchgate.net/profile/Andrea-Cabrera-9
+    icon: researchgate
+    icon_pack: ai
 education:
   courses:
-    - course: "PhD  (main topics: genetics and evolution)"
+    - course: PhD  (genetics and evolution)
       institution: University of Groningen
       year: 2018
     - course: Licenciatura in Biology
