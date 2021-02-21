@@ -11,7 +11,7 @@ authors:
 bio: I am an evolutionary biologist with a broad interest in ecology, evolution
   and adaptation of species, particularly marine mammals.
 interests:
-  - Evolution 
+  - Evolution
   - Genomics and Palaeogenomics
   - Marine mammals
 social:
@@ -21,7 +21,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AndreaACabrera4
-  - icon: google Scholar
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=7cHm3e0AAAAJ&hl=en&oi=ao
   - link: https://www.researchgate.net/profile/Andrea-Cabrera-9
