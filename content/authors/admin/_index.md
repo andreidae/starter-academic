@@ -1,12 +1,13 @@
 ---
+title: Andrea A. Cabrera
+role: Postdoctoral research
+avatar_filename: andrea_photo.jpg
 organizations:
   - name: University of Copenhagen
     url: https://globe.ku.dk/staff-list/?pure=en/persons/660906
 superuser: true
 authors:
   - admin
-title: Andrea A. Cabrera
-role: Postdoctoral research
 bio: I am an evolutionary biologist with a broad interest in ecology, evolution
   and adaptation of species, particularly marine mammals.
 interests:
