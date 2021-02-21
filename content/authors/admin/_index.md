@@ -49,4 +49,4 @@ I am currently a Postdoc at [Lorenzen Group](https://globe.ku.dk/research/evoge
 
 <!--EndFragment-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}
