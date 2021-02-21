@@ -10,11 +10,7 @@ role: Postdoctoral research
 bio: I am an evolutionary biologist with a broad interest in ecology, evolution
   and adaptation of species, particularly marine mammals.
 interests:
-  - Evolution
-  - Genetics and genomics
-  - Marine mammals
-  - Ancient DNA
-  - Climate change
+  - Evolution Genomics
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,8 +18,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AndreaACabrera4
-  - icon: google-scholar
-    icon_pack: fas
+  - icon: google
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=7cHm3e0AAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
@@ -53,3 +49,4 @@ I am currently a Postdoc at [Lorenzen Group](https://globe.ku.dk/research/evoge
 
 <!--EndFragment-->
 
+{{< icon name="download" pack="fas" >}}
