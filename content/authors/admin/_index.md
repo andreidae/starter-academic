@@ -11,7 +11,9 @@ authors:
 bio: I am an evolutionary biologist with a broad interest in ecology, evolution
   and adaptation of species, particularly marine mammals.
 interests:
-  - Evolution Genomics
+  - Evolution 
+  - Genomics and Palaeogenomics
+  - Marine mammals
 social:
   - icon: envelope
     icon_pack: fas
