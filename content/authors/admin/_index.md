@@ -1,7 +1,7 @@
 ---
 title: Andrea A. Cabrera
 role: Postdoctoral research
-avatar_filename: andrea_photo.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: University of Copenhagen
     url: https://globe.ku.dk/staff-list/?pure=en/persons/660906
