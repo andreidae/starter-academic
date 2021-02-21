@@ -10,7 +10,11 @@ role: Postdoctoral research
 bio: I am an evolutionary biologist with a broad interest in ecology, evolution
   and adaptation of species, particularly marine mammals.
 interests:
-  - Evolution Genomics
+  - Evolution
+  - Genetics and genomics
+  - Marine mammals
+  - Ancient DNA
+  - Climate change
 social:
   - icon: envelope
     icon_pack: fas
