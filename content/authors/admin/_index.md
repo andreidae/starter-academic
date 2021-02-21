@@ -21,12 +21,15 @@ social:
   - icon: google scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=7cHm3e0AAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/andreidae
   - link: https://www.researchgate.net/profile/Andrea-Cabrera-9
     icon: researchgate
     icon_pack: fab
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/andreidae
+  - link: https://orcid.org/0000-0001-5385-1114
+    icon_pack: fab
+    icon: orcid
 education:
   courses:
     - course: PhD  (genetics and evolution)
