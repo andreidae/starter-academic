@@ -26,15 +26,12 @@ social:
     link: https://github.com/andreidae
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD  (main topics: genetics and evolution)"
+      institution: University of Groningen
+      year: 2018
+    - course: Licenciatura in Biology
+      institution: University of San Carlos of Guatemala
+      year: 2011
 user_groups:
   - Researchers
   - Visitors
