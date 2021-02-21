@@ -26,7 +26,7 @@ social:
     link: https://github.com/andreidae
   - link: https://www.researchgate.net/profile/Andrea-Cabrera-9
     icon: researchgate
-    icon_pack: ai
+    icon_pack: fab
 education:
   courses:
     - course: PhD  (genetics and evolution)
