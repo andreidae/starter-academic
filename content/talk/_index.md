@@ -12,8 +12,8 @@ abstract: Studies of evolutionary ecology using genetics and other biomolecules
   population changes, migrations and admixtures that gave rise to the current
   diversity.
 location: digienlinea (Facebook Live) Guatemala
-date: 2021-04-15T08:00:00.000Z
-date_end: 2021-04-14T22:00:00.000Z
+date: 2021-04-15T16:00:00.000Z
+date_end: 2021-04-15T18:00:00.000Z
 all_day: true
 event: "Presentation of the journal: Revista Centroamericana de Investigación y
   Postgrado Ciencia, Tecnología y Salud"
